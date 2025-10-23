@@ -1,28 +1,19 @@
-# 🛍️ Django Store
+# Django Store
 
-A clean and modular **e‑commerce base project** built with Django 5.  
-Focused on clarity, scalability, and dynamic product pricing logic.
+A modular and clean Django-based e-commerce project.  
+Built to be simple, extendable, and easy to maintain.
 
----
+## Tech Stack
+- Django 5
+- Python 3.12
+- MySQL
+- Bootstrap 5 (Frontend)
+- Vanilla JavaScript
 
-## ⚙️ Tech Stack
+## Features
+- Product app with models, views, templates
+- Dynamic pricing and discount logic
+- Ready for Cart, Checkout, and Payment modules
+- Clean front-end integration with Bootstrap
 
-| Layer | Stack |
-|-------|-------|
-| Backend | **Django 5**, Python 3.12 |
-| Database | **MySQL** |
-| Frontend | Django Templates, **Vanilla JS**, Bootstrap 5 |
-| Tools | Git, Conventional Commits, Virtualenv |
-
----
-
-## 🚀 Features
-
-- ✅ Product app (models, views, templates)
-- 💰 Dynamic price & discount rendering (client‑side)
-- 🧱 Modular structure ready for Cart and Checkout apps
-- 🧩 Designed for expansion (API + Admin + Payment)
-
----
-
-## 🗂️ Project Structure
+## Project Structure
